@@ -1,9 +1,6 @@
-
-<img src='https://github.com/SenorCode924/senorcode924/blob/main/ChatGPT%20Image%2029%20may%202025%2C%2001_20_02.png' width='250px' />
-
 ## Habilidades de programacion:
 
-Realizacion de paginas webs especializado en html y css
+<img src='https://github.com/SenorCode924/senorcode924/blob/main/Habilidades%20basadas%20en.png' width='550px' />
 
 ## Proyectos empezados:
 
